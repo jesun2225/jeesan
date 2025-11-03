@@ -1,0 +1,23 @@
+{
+  "name": "jeesan-bio",
+  "version": "1.0.0",
+  "description": "Jeesan Tolentinu - Bio page with background video",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bio",
+    "portfolio",
+    "video-background"
+  ],
+  "author": "Jeesan Tolentinu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
